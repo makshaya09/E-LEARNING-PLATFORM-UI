@@ -28,4 +28,5 @@ In summary, an e-learning platform is a powerful tool that brings education to a
 
 #Output
 
-![Uploading Screenshot 2025-05-27  e learng.png…]()
+![Screenshot 2025-05-27  e learng](https://github.com/user-attachments/assets/bc1a4ca0-7dae-41ec-8660-2eae174f01fd)
+
